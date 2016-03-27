@@ -4,9 +4,9 @@
 -- | |/ |/ /  __/ /_/ /__/ / /_/ / /__/ ,< /  __/ /_/_____/ /__
 -- |__/|__/\___/_.___/____/\____/\___/_/|_|\___/\__/     /____/
 
---[[ WebSocket-Z,  decode the masked payload,  v0.3,  warmchang@163.com,  2016-03-08 ]]
---[[ WebSocket-Z,  add the opcode,  v0.2,  warmchang@163.com,  2016-03-03 ]]
---[[ WebSocket-Z,  dissector fo websocket,  v0.1,  warmchang@163.com,  2015-12-24 ]]
+--[[ WebSocket-Z,  decode the masked payload,  v0.3,  warmchang@outlook.com,  2016-03-08 ]]
+--[[ WebSocket-Z,  add the opcode,  v0.2,  warmchang@outlook.com,  2016-03-03 ]]
+--[[ WebSocket-Z,  dissector fo websocket,  v0.1,  warmchang@outlook.com,  2015-12-24 ]]
 
 --  0                   1                   2                   3
 --  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
